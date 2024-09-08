@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "strategy-design-pattern-sample/1.0.0": {
+        "runtime": {
+          "strategy-design-pattern-sample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "strategy-design-pattern-sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

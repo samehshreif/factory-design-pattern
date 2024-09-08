@@ -1,0 +1,15 @@
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\bin\Debug\net8.0\strategy-design-pattern-sample.exe
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\bin\Debug\net8.0\strategy-design-pattern-sample.deps.json
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\bin\Debug\net8.0\strategy-design-pattern-sample.runtimeconfig.json
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\bin\Debug\net8.0\strategy-design-pattern-sample.dll
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\bin\Debug\net8.0\strategy-design-pattern-sample.pdb
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.AssemblyInfoInputs.cache
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.AssemblyInfo.cs
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.csproj.CoreCompileInputs.cache
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.sourcelink.json
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.dll
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\refint\strategy-design-pattern-sample.dll
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.pdb
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\strategy-design-pattern-sample.genruntimeconfig.cache
+C:\MyRepository\factory-design-pattern\strategy-design-pattern-sample\obj\Debug\net8.0\ref\strategy-design-pattern-sample.dll
