@@ -1,0 +1,15 @@
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\bin\Debug\net8.0\factory-design-pattern-method.exe
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\bin\Debug\net8.0\factory-design-pattern-method.deps.json
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\bin\Debug\net8.0\factory-design-pattern-method.runtimeconfig.json
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\bin\Debug\net8.0\factory-design-pattern-method.dll
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\bin\Debug\net8.0\factory-design-pattern-method.pdb
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.AssemblyInfoInputs.cache
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.AssemblyInfo.cs
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.csproj.CoreCompileInputs.cache
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.sourcelink.json
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.dll
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\refint\factory-design-pattern-method.dll
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.pdb
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\factory-design-pattern-method.genruntimeconfig.cache
+C:\MyRepository\factory-design-pattern\factory-design-pattern-method\obj\Debug\net8.0\ref\factory-design-pattern-method.dll
