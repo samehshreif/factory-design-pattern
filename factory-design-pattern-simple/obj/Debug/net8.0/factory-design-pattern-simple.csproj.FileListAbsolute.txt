@@ -1,0 +1,15 @@
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\bin\Debug\net8.0\factory-design-pattern-simple.exe
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\bin\Debug\net8.0\factory-design-pattern-simple.deps.json
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\bin\Debug\net8.0\factory-design-pattern-simple.runtimeconfig.json
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\bin\Debug\net8.0\factory-design-pattern-simple.dll
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\bin\Debug\net8.0\factory-design-pattern-simple.pdb
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.AssemblyInfoInputs.cache
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.AssemblyInfo.cs
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.csproj.CoreCompileInputs.cache
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.sourcelink.json
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.dll
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\refint\factory-design-pattern-simple.dll
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.pdb
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\factory-design-pattern-simple.genruntimeconfig.cache
+C:\MyRepository\factory-design-pattern\factory-design-pattern-simple\obj\Debug\net8.0\ref\factory-design-pattern-simple.dll
